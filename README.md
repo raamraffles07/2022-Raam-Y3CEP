@@ -3,7 +3,7 @@
 
 > Using Git without command line: https://pixelpioneers.co/blog/2017/using-github-without-the-command-line
 
-[Project Proposal](proposal.md)
+[Project Proposal]([proposal.md](https://github.com/raamraffles07/2022-Raam-Y3CEP/blob/main/proposal.md))
 
 [Development Log](devlog.md)
 
