@@ -13,8 +13,7 @@
 
 ## Week 5 (26 Jul - 1 Aug)
 
-##Finish Writing Proposal and Planning, Research for Project
-##Update Development Log
+Finish Writing Proposal and Planning + Research for Project. Also update Development Log. 
 
 ## Week 6 (2 Aug - 8 Aug)
 
