@@ -1,26 +1,25 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
+> Building a Student and CCA record tracking system for Raffles Institution Red Cross. 
 
 #Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
+> Simplifying the job of tracking attendance, achievements and offences of students in the CCA, and tracking events, manpower for each event and equipment management. 
 
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> For every student in the CCA, one with access to the program can track his/her achievements (badges earned) and attendance in the CCA, and also the number of specific offences that he/she has committed, along with the date and time of those offences. Achievements, attendance and offences can similarly be added or removed from the dataset, at a specific date and time (which will also be recorded). Events held at the CCA, once every fortnight, will also be recorded for admin purposes, and can be easily retrievable (things that will be recorded include name of the event, details about the event, date and duration of event, manpower involved, attendance taking, equipment used, etc.). The program will also be able to function in equipment management, in which specific equipments can be added or removed from the list. Damaged items may also be recorded in the list. 
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
+> There were no similar apps / codebase that I found online that was similar to the project I wish to embark on. 
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> As mentioned above, tracking of everything that goes on in the CCA is a senior's role, including student, equipment and event record management. Nowadays seniors have heavy trouble keeping track of all these things, as there are extremely large and numerous excel sheets to constantly have to refer to, in order to find information about students/equipment and update them. Things can be made much more simple, neat and accessible with a program that implements Object-Oriented Programming (OOP).
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> Creating and Storing Data in Large Databases, and Efficient Memory use. 
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
-> - Week 5
-> - Week 6
+> - Week 5: Proposal
+> - Week 6: Start implementing Student Record Tracking System
 > - Week 7
 > - Week 8
 > - Week 9
