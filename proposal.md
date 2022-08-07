@@ -19,8 +19,8 @@
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
 > - Week 5: Proposal
-> - Week 6: Start implementing Student Record Tracking System
-> - Week 7
+> - Week 6: Start Implementing Student Record Tracking System
+> - Week 7: Finish Implementing Student Record Tracking System
 > - Week 8
 > - Week 9
 > - Week 10
