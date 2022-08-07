@@ -21,7 +21,9 @@ Finish Writing Proposal and Planning + Prior research for Project. Also update D
 
 Start Implementing Student Record Tracking System
 
---> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was also coded successfully. 
+--> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was also coded successfully. However, I was also able to do additional work and code for functions such as "Add Student". 
+
+--> However, one challenge I am facing is that I am having trouble with importing functions from other files into the main user interface. Whenever the user selects a function they want, such as "Add Student", the program does not import this function from another file, but instead exits the program. 
 
 ## Week 7 (9 Aug - 15 Aug)
 
