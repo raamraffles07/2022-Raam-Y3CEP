@@ -13,11 +13,19 @@
 
 ## Week 5 (26 Jul - 1 Aug)
 
-Finish Writing Proposal and Planning + Research for Project. Also update Development Log. 
+Finish Writing Proposal and Planning + Prior research for Project. Also update Development Log. 
+
+--> This goal was completed succesfully, with the Proposal being completed and Submitted on the 1st of August. The development log was also updated successfully. 
 
 ## Week 6 (2 Aug - 8 Aug)
 
+Start Implementing Student Record Tracking System
+
+--> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was also coded successfully. 
+
 ## Week 7 (9 Aug - 15 Aug)
+
+Finish Implementing Student Record Tracking System
 
 ## Week 8 (16 Aug - 22 Aug)
 
