@@ -29,6 +29,8 @@ Start Implementing Student Record Tracking System
 
 Finish Implementing Student Record Tracking System
 
+--> Bug still unfixable
+
 ## Week 8 (16 Aug - 22 Aug)
 
 ## Week 9 (23 Aug - 29 Aug)
