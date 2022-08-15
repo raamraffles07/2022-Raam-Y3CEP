@@ -29,7 +29,9 @@ Start Implementing Student Record Tracking System
 
 Finish Implementing Student Record Tracking System
 
---> Bug still unfixable
+--> This week was super busy with WAs, Science Research submission, etc., so I was not able to work on the project as much. 
+--> It greatly helped that I could do extra work last week.
+--> The bug is unfortunately still unfixed. 
 
 ## Week 8 (16 Aug - 22 Aug)
 
