@@ -21,7 +21,7 @@ Finish Writing Proposal and Planning + Prior research for Project. Also update D
 
 Start Implementing Student Record Tracking System
 
---> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was coded successfully. Additionally, I was also able to do additional work this week, and code for functions such as "Add Student". 
+--> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was coded successfully. Additionally, I was also able to do additional work this week, and start coding for sub-functions such as "Add Student". 
 
 --> Hoever, one challenge I am facing is that I am having trouble with importing functions from other files into the main user interface. Whenever the user selects a function they want, such as "Add Student", the program does not import this function from another file, but instead exits the program. This is something I spent very long (about 3 hours) trying to fix, but am still unable to do so. 
 
@@ -34,6 +34,8 @@ Finish Implementing Student Record Tracking System
 --> The bug is unfortunately still unfixed. 
 
 ## Week 8 (16 Aug - 22 Aug)
+
+--> This week was also really busy. However, after trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. I was also able to finish coding for several sub-functions including "Add Student", "Remove Student", "Update Student Offence List", "Update Student Badge List".
 
 ## Week 9 (23 Aug - 29 Aug)
 
