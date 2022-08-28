@@ -35,11 +35,27 @@ Finish Implementing Student Record Tracking System
 
 ## Week 8 (16 Aug - 22 Aug)
 
---> This week was also really busy. However, after trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. I was also able to finish coding for several sub-functions including "Add Student", "Update Student Offence List", "Update Student Badge List".
-
---> I gave up on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
+--> This week was also really busy. However, after trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. I was also able to finish coding for several sub-functions including "Add Student", "Update Student Offence List", "Update Student Badge List". I really really tried to code for certain sub-functions like "Remove Student". However, even after long hours of trying, I found great difficulty in finding ways, from both the Coursemology document, and online resources, to implement certain actions like removing entire rows from .csv files, and plan to work on them the following week. 
 
 ## Week 9 (23 Aug - 29 Aug)
+
+--> I finished coding for 5 functions in total in the main code. These include:
+    (2) Update Student Offence List
+    (3) Update Student's Badge List
+    (4) Update Broken Items
+    (6) Access Student Info
+    (7) Access Logistics Info
+    
+    I also managed to research and find a way to exit the system, and coded for:
+    
+    (9) Exit System
+    
+    Because of this, I only have two more functions to code for:
+    
+    (5) Update Events Info
+    (8) Access Events Info
+
+--> I have current paused on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to get help in the subsequent CEP sessions and work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
 
 ## Week 10 (30 Aug - 5 Sep)
 
