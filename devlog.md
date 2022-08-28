@@ -37,7 +37,7 @@ Finish Implementing Student Record Tracking System
 
 --> After trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. 
 
---> I was also able to finish coding for several sub-functions including "Add Student", "Update Student Offence List", "Update Student Badge List". 
+--> I spent about 4 hours trying to code for several sub-functions including "Add Student", "Update Student Offence List", "Update Student Badge List". These functions are able to accurately read and present specific data in specific rows and columns in my csv file. However, I am facing a lot of difficulty in updating column values into a .csv file.  
 
 --> I really tried to code for certain sub-functions like "Remove Student". However, even after about 3 hours of trying, I found great difficulty in finding ways, from both the Coursemology document, and online resources, to implement certain actions like removing entire rows from .csv files, and plan to work on them the following week. 
 
