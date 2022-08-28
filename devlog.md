@@ -43,18 +43,9 @@ Finish Implementing Student Record Tracking System
 
 ## Week 9 (23 Aug - 29 Aug)
 
---> This week was the wonder week, having spent about 16 hours on the project. I managed to finish all the sub-functions of my program and fixed all the bugs identified in my codes from last week. I am almost entirely done with the project. The sub-functions I completed this week include:
+--> This week was the wonder week, having spent about 16 hours on the project. I managed to finish all the sub-functions of my program and fixed all the bugs identified in my codes from last week. I am almost entirely done with the project. 
 
-(1) Add Student,
-(2) Remove Student,
-(3) Update Student Offence List,
-(4) Update Student's Badge List,
-(5) Update Broken Items,
-(6) Access Student Info,
-(7) Access Logistics Info,
-(8) Exit System
-
---> In essence, I am done with almost every aspect of my project. However, some of the outputs/print statments in specific sub-functions, such as the "Access Student Info" and "Access Logistics Info" look quite ugly, which I need to fix soon. Additionally, I have not fulfilled certain criteria of the OOP such as implementing "try and except" in my codes. I also aim to include additional sub-functions in the upcoming weeks. 
+--> In essence, I am done with almost every aspect of my project. However, some of the outputs/print statments in specific sub-functions, such as the "Access Student Info" and "Access Logistics Info" look quite ugly, which I need to fix soon. Additionally, I have not fulfilled certain criteria of the OOP such as implementing "try and except" in my codes. I also aim to include additional sub-functions in the upcoming weeks. Overall, in the upcoming weeks, I would like to try to perfect the entire project, and also better orientate it with the goals/objectives set for this project.
 
 ## Week 10 (30 Aug - 5 Sep)
 
