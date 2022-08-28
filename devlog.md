@@ -41,11 +41,11 @@ Finish Implementing Student Record Tracking System
 
     I finished coding for 5 functions in total in the main code. These include:
 
-    (2) Update Student Offence List
-    (3) Update Student's Badge List
-    (4) Update Broken Items
-    (6) Access Student Info
-    (7) Access Logistics Info
+    (3) Update Student Offence List
+    (4) Update Student's Badge List
+    (5) Update Broken Items
+    (7) Access Student Info
+    (8) Access Logistics Info
     
     I also managed to research and find a way to exit the system, and coded for:
     
@@ -53,8 +53,8 @@ Finish Implementing Student Record Tracking System
     
     Because of this, I only have two more functions to code for:
     
-    (5) Update Events Info
-    (8) Access Events Info
+    (6) Update Events Info
+    (9) Access Events Info
 
 --> I have current paused on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to get help in the subsequent CEP sessions and work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
 
