@@ -39,7 +39,7 @@ Finish Implementing Student Record Tracking System
 
 ## Week 9 (23 Aug - 29 Aug)
 
---> I finished coding for 5 functions in total in the main code. These include:
+    I finished coding for 5 functions in total in the main code. These include:
 
     (2) Update Student Offence List
     (3) Update Student's Badge List
