@@ -29,7 +29,7 @@ Start Implementing Student Record Tracking System
 
 Finish Implementing Student Record Tracking System
 
---> This week was super busy with WAs, Science Research submission, etc., so I was not able to work on the project as much. 
+--> This week was super busy with WAs, Science RE submission, etc., so I was not able to work on the project as much. 
 --> It greatly helped that I could do extra work last week.
 --> The bug is unfortunately still unfixed. 
 
@@ -39,24 +39,9 @@ Finish Implementing Student Record Tracking System
 
 ## Week 9 (23 Aug - 29 Aug)
 
-    I finished coding for 5 functions in total in the main code. These include:
+--> I did not code for any new sub-functions this week. However, I tried working on the problems in my code that have incurred from the previous week.
 
-    (3) Update Student Offence List
-    (4) Update Student's Badge List
-    (5) Update Broken Items
-    (7) Access Student Info
-    (8) Access Logistics Info
-    
-    I also managed to research and find a way to exit the system, and coded for:
-    
-    (9) Exit System
-    
-    Because of this, I only have two more functions to code for:
-    
-    (6) Update Events Info
-    (9) Access Events Info
-
---> I have current paused on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to get help in the subsequent CEP sessions and work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
+--> I tried really hard but decided to give up on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to get help in the subsequent CEP sessions and work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
 
 ## Week 10 (30 Aug - 5 Sep)
 
