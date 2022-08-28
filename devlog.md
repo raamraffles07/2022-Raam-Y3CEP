@@ -23,7 +23,7 @@ Start Implementing Student Record Tracking System
 
 --> This goal was completed successfully. The Class "Student", as well as the user interface with the program, was coded successfully. Additionally, I was also able to do additional work this week, and start coding for sub-functions such as "Add Student". 
 
---> Hoever, one challenge I am facing is that I am having trouble with importing functions from other files into the main user interface. Whenever the user selects a function they want, such as "Add Student", the program does not import this function from another file, but instead exits the program. This is something I spent very long (about 3 hours) trying to fix, but am still unable to do so. 
+--> However, one challenge I am facing is that I am having trouble with importing functions from other files into the main user interface. Whenever the user selects a function they want, such as "Add Student", the program does not import this function from another file, but instead exits the program. This is something I spent very long (about 3 hours) trying to fix, but am still unable to do so. 
 
 ## Week 7 (9 Aug - 15 Aug)
 
@@ -35,7 +35,9 @@ Finish Implementing Student Record Tracking System
 
 ## Week 8 (16 Aug - 22 Aug)
 
---> This week was also really busy. However, after trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. I was also able to finish coding for several sub-functions including "Add Student", "Remove Student", "Update Student Offence List", "Update Student Badge List".
+--> This week was also really busy. However, after trying for about an hour, I was able to to fix the bug in importing functions from other files into the main user interface. I was also able to finish coding for several sub-functions including "Add Student", "Update Student Offence List", "Update Student Badge List".
+
+--> I gave up on certain sub-functions like "Remove Student". Although I tried coding for them, I was stuck in carrying out certain actions such as removing entire rows from .csv files. I tried learning how to carry these out via the document shared with us on Coursemology, and via learning through the use of additional resources on the internet. However, they were too long and tedious, and were ultimately unnecessary as one does have a need to remove an entire student from the database, and even if so, will find it easier to manually do it instead of coding for it in a python code. I plan to work on these sub-functions like "Remove Student" later on during the holidays if I find additional time.
 
 ## Week 9 (23 Aug - 29 Aug)
 
