@@ -6,7 +6,7 @@
 
 # Listing of features
 
-> For every student in the CCA, one with access to the program can track his/her achievements (badges earned) throughout their learning experience in the CCA, and also the number of specific offences that he/she has committed, along with the date and time of those offences. The program will also be able to function in equipment management, in which specific equipments can be removed from the list due to various reasons such as damage. Important events happening in the CCA can also be tracked by the program, which will take down the event name, description, date, manpower involved, budget, etc. 
+> For every student in the CCA, one with access to the program can track his/her achievements (badges earned) throughout their learning experience in the CCA, and also the number of specific offences that he/she has committed, along with the date and time of those offences. The program will also be able to function in equipment management, in which specific equipments can be removed from the list due to various reasons such as damage. Important events happening in the CCA can also be tracked by the program, which will take down the event name, description, date, budget, etc. 
 
 > The main thing that my program offers is ease of accessibility of information. Instead of having a single excel sheet with thousands of rows which take long periods to access, my program allows seniors in the CCA to access the information they want in a matter of seconds. This ultimately improves efficiency of the CCA and their ability to store student and CCA data/information.
 
