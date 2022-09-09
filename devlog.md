@@ -58,9 +58,10 @@ Finish Implementing Student Record Tracking System
 
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
 
---> I finished implementing the "Update Events Information", "Access Events information". Since I had additional time, I also implemented the "Update Attendance List" and "Access Absentee List of my codes". Most of this week was also spent on making my codes look nicer and neater.
-
 --> I was unable to fix the error from Week 10, where the data in 'Dataset.csv' and 'Logistics.csv' were mysteriously erased everytime I ran maincode(). However, this is a very very minor issue, as all the data from both the datasets could be easily retrieved and saved again by reversing the change 
-(Command + Z), before proceeding to provide inputs in the sub-functions. This isn't a big issue as this takes less than a seconds to do, and thus there is negligible chance of data in the datasets being lost. This is something I would like to improve on and fix after the final submission of my project.
+(Command + Z), before proceeding to provide inputs in the sub-functions. This isn't a big issue as this takes less than a seconds to do, and thus there is negligible chance of data in the datasets being lost. This is something I would like to improve on and fix even after the final submission of my project. This is because, upon discussing with the CCA Leaders of Red Cross, they are keen on seniors using my program to easily access information in the CCA, as it takes very long for them to do so with the large datasets currently present. I guess this is a good note on my OOP project.
 
---> I also implemented the Try-Except commands in my code, as i had not included them inside before. My entire program, where seniors in the CCA can easily access Student Information (Their Offences, Badges, Attendance and Broken Items), Logistics Information and Events Information, is now entirely complete.
+--> On a more positive note, I finished implementing the "Update Events Information", "Access Events information". Since I had additional time, I also implemented the "Update Attendance List" and "Access Absentee List of my codes". These are able to run perfectly with no bugs/errors.  I also implemented the Try-Except commands in my code, as i had not included them inside before. Most of this week was also spent on making my codes look nicer and neater.
+
+
+--> My entire program, where seniors in the CCA can easily access Student Information (Their Offences, Badges, Attendance and Broken Items), Logistics Information and Events Information, is now entirely complete.
