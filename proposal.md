@@ -18,7 +18,7 @@
 > As mentioned above, tracking of everything that goes on in the CCA is a senior's role, including student and equipment management. Nowadays seniors have heavy trouble keeping track of all these things, as there are extremely large and numerous excel sheets to constantly have to refer to, in order to find information about students/equipment and update them. Things can be made much more simple, neat and accessible with a program that implements Object-Oriented Programming (OOP).
 
 # Skills that my project requires me to pick up
-> Creating and Storing Data in Large Databases, and Efficient Memory use. 
+> Creating and Storing Data in Large Databases, Efficient Data retrieval and Efficient Memory use. 
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
