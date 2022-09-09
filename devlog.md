@@ -50,8 +50,17 @@ Finish Implementing Student Record Tracking System
 
 ## Week 10 (30 Aug - 5 Sep)
 
---> I started implementing the "Update Events Information" sub-function of my program, although it is not fully complete (almost completed). The "Access Events information" is the only sub-function left for me to code for.
+--> I started implementing the "Update Events Information" sub-function of my program, although it is not fully complete (almost completed). I also finished coding for the "Access Events information".
 
 --> I spent most of the week touching up on my program and making the user-end experience of it smoother. I also identified a couple of loopholes, and managed to fix them.
 
+--> One problem that popped up this week was, when I tried to run my maincode(), all the data in 'Dataset.csv' and 'Logistics.csv' were mysteriously erased. Interestingly, the data in 'Events.csv' was unaffected by this. I did not face this problem last week, and my code was running perfectly fine last week, so I was not sure as to why this occured. At first, I thought that the problem was in the lines of my sub-function that retrieved the datasets. However, upon further analysis and code alteration, I found out that the data in both my datasets were being erased right after maincode() was run, and even before the sub-functions of my code were called. I tried to fix this, but I was unable to do so. This is something I would like to work on next week.
+
 ## Sep Holiday (5 Sep - 10 Sep) **Submission date is 10 Sep**
+
+--> I finished implementing the "Update Events Information", "Access Events information". Since I had additional time, I also implemented the "Update Attendance List" and "Access Absentee List of my codes". Most of this week was also spent on making my codes look nicer and neater.
+
+--> I was unable to fix the error from Week 10, where the data in 'Dataset.csv' and 'Logistics.csv' were mysteriously erased everytime I ran maincode(). However, this is a very very minor issue, as all the data from both the datasets could be easily retrieved and saved again by reversing the change 
+(Command + Z), before proceeding to provide inputs in the sub-functions. This isn't a big issue as this takes less than a seconds to do, and thus there is negligible chance of data in the datasets being lost. This is something I would like to improve on and fix after the final submission of my project.
+
+--> I also implemented the Try-Except commands in my code, as i had not included them inside before. My entire program, where seniors in the CCA can easily access Student Information (Their Offences, Badges, Attendance and Broken Items), Logistics Information and Events Information, is now entirely complete.
